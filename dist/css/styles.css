@@ -602,6 +602,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  width: auto;
 }
 
 .img-thumbnail {
@@ -7408,6 +7409,10 @@ textarea.form-control-lg {
   margin-left: 3rem !important;
 }
 
+.ms-6 {
+  margin-left: 23rem !important;
+}
+
 .ms-auto {
   margin-left: auto !important;
 }
@@ -11293,7 +11298,7 @@ html {
 }
 
 .page-section {
-  padding: 6rem 0;
+  padding: 3rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
