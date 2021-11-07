@@ -7410,7 +7410,7 @@ textarea.form-control-lg {
 }
 
 .ms-6 {
-  margin-left: 23rem !important;
+  margin-left: 24rem !important;
 }
 
 .ms-auto {
@@ -9626,6 +9626,10 @@ textarea.form-control-lg {
   .my-lg-auto {
     margin-top: auto !important;
     margin-bottom: auto !important;
+  }
+
+  .m-custom {
+    margin-left: 26rem !important
   }
 
   .mt-lg-0 {
